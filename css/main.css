@@ -1,0 +1,79 @@
+
+body{
+	background: #003366;
+}
+
+
+
+
+/* ---------------Page Fonts------------------*/
+
+h1, h2, h3{
+	color: white;
+	text-shadow: 3px 3px 2px #111
+
+}
+
+h2{
+	font-family: 'Arapey', serif;
+}
+
+
+/* -------------------------------------------*/
+
+ol{
+	color: white;
+}
+
+
+/* --------------------paragraph-----------------------*/
+p{
+	background: white;
+	border: 5px
+	border-color: black;
+	opacity: 0.6;
+	color: black;
+	-moz-column-count: 2;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	margin: 10px;
+	padding: 5px;
+	width: 750px;
+	text-align: left;
+}
+/* -------------------------------------------*/
+
+
+
+/* ------------ Navigation ------------------- */
+
+ul
+{
+padding-left: 0;
+margin-left: 0;
+background-color: #036;
+color: White;
+float: left;
+width: 100%;
+font-family: arial, helvetica, sans-serif;
+}
+
+ul li { display: inline; }
+
+ul li a
+{
+padding: 0.2em 1em;
+background-color: #036;
+color: White;
+text-decoration: none;
+float: left;
+border-right: 1px solid #fff;
+}
+
+ul li a:hover
+{
+background-color: #369;
+color: #fff;
+}
+
+/* -------------------------------------------------*/
